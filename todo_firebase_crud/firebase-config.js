@@ -3,12 +3,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebas
 import { getFirestore } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBu8E4OiAMn2BuYUZLmHDPn-ymmz80VX_0",
-  authDomain: "crudelectiva-22d98.firebaseapp.com",
-  projectId: "crudelectiva-22d98",
-  storageBucket: "crudelectiva-22d98.appspot.com",
-  messagingSenderId: "885197819334",
-  appId: "1:885197819334:web:a24a4fbda273e698df36c7"
+  apiKey: "AIzaSyD8M_PZvwc2SosFxnVSl7qhejsrk6csYbo",
+  authDomain: "electiva-57bea.firebaseapp.com",
+  projectId: "electiva-57bea",
+  storageBucket: "electiva-57bea.appspot.com",
+  messagingSenderId: "338001965693",
+  appId: "1:338001965693:web:cef3f19747a0eb7925b714",
+  measurementId: "G-6HGRCQ7S8M"
 };
 
 // Inicializa o Firebase
